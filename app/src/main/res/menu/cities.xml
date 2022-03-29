@@ -2,7 +2,7 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="Irkutsk" />
+    <item android:title="Irkutsk" app:showAsAction="ifRoom" />
     <item android:title="Moscow" />
     <item android:title="Tokyo" />
 </menu>
