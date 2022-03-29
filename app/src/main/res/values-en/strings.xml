@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MenuDemo</string>
+<string-array name="cities">
+    <item>Irkutsk</item>
+    <item>Moscow</item>
+</string-array>
+</resources>

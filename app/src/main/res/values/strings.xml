@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MenuDemo</string>
+    <string-array name="cities">
+        <item>Иркутск</item>
+        <item>Москва</item>
+    </string-array>
 </resources>
